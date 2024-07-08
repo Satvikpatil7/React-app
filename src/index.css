@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: "Gilroy", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(29, 28, 28);
+}
