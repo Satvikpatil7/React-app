@@ -39,7 +39,7 @@ const Cards = () => {
         <div className={contentClasses}>
           <SiLeetcode className={iconClasses}/>
           <h2 className={headingClasses}>LeetCode</h2>
-          <p className={textClasses}>Programmer passionate about Java. </p>
+          <p className={textClasses}>Programmer passionate . </p>
           <a href="https://leetcode.com/u/satvikmpatil/">
             <FaLink className={linkClasses}/>
             <span className={linkClasses}>Follow me</span>
